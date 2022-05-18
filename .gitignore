@@ -1,6 +1,7 @@
 # intellij
 .idea
 *.iml
+*.http
 
 # python
 .venv

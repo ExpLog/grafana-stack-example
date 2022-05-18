@@ -1,9 +1,10 @@
 # TODO
 
-- [ ] Add git, .gitignore, and push to Github.
+- [x] Add git, .gitignore, and push to Github.
 - [x] Add Loki to the `docker-compose.yml`.
 - [x] Make Loki and Tempo work together correlating logs and traces.
 - [ ] Build a sample API in Python that can use everything from the Grafana + Prometheus stack.
+  - In progress.
 - [ ] Build a sample consumer (maybe consuming events produced by the API), then integrate it.
 - [ ] Learn how to make good dashboards in Grafana, querying all the tools available (Prometheus, Loki, Tempo)
 - [x] Learn how to configure everything, including auto-discovery from `docker`.'
